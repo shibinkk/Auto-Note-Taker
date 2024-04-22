@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351524702383",
+    "project_id": "auto-notes-taker",
+    "storage_bucket": "auto-notes-taker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351524702383:android:2551062643a254c2142c5a",
+        "android_client_info": {
+          "package_name": "com.example.autonotestaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iOxoHFnHov1UoRCG6xgJGQfopGcgX3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
